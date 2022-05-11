@@ -46,11 +46,10 @@ To get a local copy up and running follow these simple example steps.
 - Twitter: [@jsivahera](https://twitter.com/jsivahera)
 - LinkedIn: [jsivahera](https://www.linkedin.com/in/jsivahera/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Samiullah Bahadur**
+- GitHub: [@ Bahadur](https://github.com/samiullahbahadur)
+- Twitter: [@Bahadur](https://twitter.com/Samiull88496331)
+- LinkedIn: [Bahadur](https://www.linkedin.com/in/jsivahera/)
 
 ## 🤝 Contributing
 
