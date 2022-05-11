@@ -39,27 +39,21 @@ MORSE_DICT = {
 }.freeze
 
 def decode_char(char)
-  return MORSE_DICT[char].capitalize()
+  MORSE_DICT[char].capitalize
 end
 
 def decode_word(word)
-  char_list = word.split(' ');
-  result = '';
-  char_list.each {
-    |x|
-    result +=decode_char(x)
-  }
-  return result
+  char_list = word.split
+  result = ''
+  char_list.each { |x| result += decode_char(x) }
+  result
 end
 
 def decode(sentence)
-  word_list = sentence.split('   ');
+  word_list = sentence.split('   ')
   result = ''
-  word_list.each{
-    |word|
-    result += decode_word(word)+' '
-  }
-  return result;
+  word_list.each { |word| result += "#{decode_word(word)} " }
+  result
 end
 
 print(decode('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...'))
