@@ -2,7 +2,7 @@
 
 # Decode Morse message
 
-> This project is about decrypting given char, word, or sentence to human readable language. To solve this problem we have used `Ruby` as our programming language.
+> This project is about decrypting given char, word, or sentence to human readable language. To solve this problem we have used `Ruby` as our programming language
 
 
 ## Built With
